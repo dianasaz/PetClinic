@@ -1,0 +1,4 @@
+2019-09-12 12:57:14,752 [http-nio-8080-exec-1] INFO by.sazanchuk.finalTask.controller.command.action.authorization.LoginCommand - invalid login was received
+2019-09-12 12:57:32,103 [http-nio-8080-exec-7] INFO by.sazanchuk.finalTask.controller.command.action.authorization.LoginCommand - user authorized with login - diana
+2019-09-12 13:01:22,087 [main] INFO by.sazanchuk.finalTask.dao.connectionPool.ConnectionPool - Deregistering jdbc driver: com.mysql.cj.jdbc.Driver@2ad727dc
+2019-09-12 13:01:22,088 [main] INFO by.sazanchuk.finalTask.dao.connectionPool.ConnectionPool - Deregistering jdbc driver: com.mysql.cj.jdbc.Driver@3f1dadf9

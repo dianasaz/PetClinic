@@ -1,0 +1,12 @@
+2019-12-27 19:05:44,866 [http-nio-8080-exec-1] INFO by.sazanchuk.finalTask.controller.command.action.HomePageCommand - by.sazanchuk.finalTask.dao.DaoException: java.sql.SQLSyntaxErrorException: Table 'mydatabase.service' doesn't exist
+2019-12-27 19:05:46,923 [http-nio-8080-exec-3] INFO by.sazanchuk.finalTask.controller.command.action.HomePageCommand - by.sazanchuk.finalTask.dao.DaoException: java.sql.SQLSyntaxErrorException: Table 'mydatabase.service' doesn't exist
+2019-12-27 19:05:50,436 [http-nio-8080-exec-10] INFO by.sazanchuk.finalTask.controller.command.action.HomePageCommand - by.sazanchuk.finalTask.dao.DaoException: java.sql.SQLSyntaxErrorException: Table 'mydatabase.service' doesn't exist
+2019-12-27 19:05:52,679 [http-nio-8080-exec-2] INFO by.sazanchuk.finalTask.controller.command.action.HomePageCommand - by.sazanchuk.finalTask.dao.DaoException: java.sql.SQLSyntaxErrorException: Table 'mydatabase.service' doesn't exist
+2019-12-27 19:05:55,238 [http-nio-8080-exec-3] INFO by.sazanchuk.finalTask.controller.command.action.authorization.LoginCommand - invalid login was received
+2019-12-27 19:05:58,118 [http-nio-8080-exec-5] INFO by.sazanchuk.finalTask.controller.command.action.authorization.LoginCommand - by.sazanchuk.finalTask.dao.DaoException: java.sql.SQLSyntaxErrorException: Table 'mydatabase.user' doesn't exist
+2019-12-27 19:05:58,118 [http-nio-8080-exec-5] INFO by.sazanchuk.finalTask.controller.command.action.authorization.LoginCommand - user with such login and password doesn't exist
+2019-12-27 19:06:01,775 [http-nio-8080-exec-6] INFO by.sazanchuk.finalTask.controller.command.action.HomePageCommand - by.sazanchuk.finalTask.dao.DaoException: java.sql.SQLSyntaxErrorException: Table 'mydatabase.service' doesn't exist
+2019-12-27 19:06:05,521 [http-nio-8080-exec-4] INFO by.sazanchuk.finalTask.controller.command.action.HomePageCommand - by.sazanchuk.finalTask.dao.DaoException: java.sql.SQLSyntaxErrorException: Table 'mydatabase.service' doesn't exist
+2019-12-27 19:06:09,176 [http-nio-8080-exec-5] INFO by.sazanchuk.finalTask.controller.command.action.HomePageCommand - by.sazanchuk.finalTask.dao.DaoException: java.sql.SQLSyntaxErrorException: Table 'mydatabase.service' doesn't exist
+2019-12-27 19:06:31,507 [main] INFO by.sazanchuk.finalTask.dao.connectionPool.ConnectionPool - Deregistering jdbc driver: com.mysql.cj.jdbc.Driver@54548d57
+2019-12-27 19:06:31,507 [main] INFO by.sazanchuk.finalTask.dao.connectionPool.ConnectionPool - Deregistering jdbc driver: com.mysql.cj.jdbc.Driver@3dbc0a33

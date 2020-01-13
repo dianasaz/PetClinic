@@ -1,0 +1,6 @@
+2019-09-15 23:12:51,121 [http-nio-8080-exec-7] INFO by.sazanchuk.finalTask.controller.command.action.authorization.LoginCommand - invalid login was received
+2019-09-15 23:12:55,635 [http-nio-8080-exec-8] INFO by.sazanchuk.finalTask.controller.command.action.authorization.LoginCommand - user authorized with login - diana
+2019-09-15 23:13:00,653 [http-nio-8080-exec-10] INFO by.sazanchuk.finalTask.controller.command.action.coupon.EditCouponCommand - invalid info in updating coupon
+2019-09-15 23:13:09,768 [http-nio-8080-exec-9] INFO by.sazanchuk.finalTask.controller.command.action.coupon.EditCouponCommand - by.sazanchuk.finalTask.dao.DaoException: java.sql.SQLIntegrityConstraintViolationException: Cannot add or update a child row: a foreign key constraint fails (`mydatabase`.`coupon`, CONSTRAINT `coupon_ibfk_1` FOREIGN KEY (`user_id`) REFERENCES `user` (`user_id`) ON DELETE CASCADE ON UPDATE CASCADE)
+2019-09-15 23:45:30,435 [main] INFO by.sazanchuk.finalTask.dao.connectionPool.ConnectionPool - Deregistering jdbc driver: com.mysql.cj.jdbc.Driver@340ea4e2
+2019-09-15 23:45:30,435 [main] INFO by.sazanchuk.finalTask.dao.connectionPool.ConnectionPool - Deregistering jdbc driver: com.mysql.cj.jdbc.Driver@5ec6d93d

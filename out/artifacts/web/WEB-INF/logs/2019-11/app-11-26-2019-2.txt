@@ -1,0 +1,6 @@
+2019-11-26 12:41:36,870 [http-nio-8080-exec-6] INFO by.sazanchuk.finalTask.controller.command.action.authorization.LoginCommand - user was above: id:1
+2019-11-26 12:41:37,924 [http-nio-8080-exec-8] INFO by.sazanchuk.finalTask.controller.command.action.authorization.LoginCommand - invalid login was received
+2019-11-26 12:41:39,937 [http-nio-8080-exec-9] INFO by.sazanchuk.finalTask.controller.command.action.authorization.LoginCommand - user authorized with login - admin
+2019-11-26 12:56:20,211 [http-nio-8080-exec-6] INFO by.sazanchuk.finalTask.controller.command.action.doctor.AddDoctorCommand - name or price is null
+2019-11-26 13:00:25,654 [main] INFO by.sazanchuk.finalTask.dao.connectionPool.ConnectionPool - Deregistering jdbc driver: com.mysql.cj.jdbc.Driver@562ebce7
+2019-11-26 13:00:25,664 [main] INFO by.sazanchuk.finalTask.dao.connectionPool.ConnectionPool - Deregistering jdbc driver: com.mysql.cj.jdbc.Driver@6d20bd82

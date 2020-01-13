@@ -1,0 +1,13 @@
+2019-11-26 11:54:41,244 [http-nio-8080-exec-6] INFO by.sazanchuk.finalTask.controller.command.action.authorization.LoginCommand - invalid login was received
+2019-11-26 11:56:46,247 [http-nio-8080-exec-9] ERROR by.sazanchuk.finalTask.controller.command.action.authorization.RegisterCommand - Invalid password was received
+2019-11-26 11:58:02,833 [http-nio-8080-exec-2] INFO by.sazanchuk.finalTask.controller.command.action.authorization.LoginCommand - user with such login and password doesn't exist
+2019-11-26 11:58:26,189 [http-nio-8080-exec-10] INFO by.sazanchuk.finalTask.controller.command.action.authorization.LoginCommand - user with such login and password doesn't exist
+2019-11-26 11:58:57,526 [http-nio-8080-exec-5] INFO by.sazanchuk.finalTask.controller.command.action.authorization.LoginCommand - user authorized with login - diana
+2019-11-26 12:02:14,293 [http-nio-8080-exec-4] INFO by.sazanchuk.finalTask.controller.command.action.coupon.TakeCouponCommand - invalid info
+2019-11-26 12:06:28,338 [http-nio-8080-exec-1] INFO by.sazanchuk.finalTask.controller.command.action.authorization.LoginCommand - user was above: id:2
+2019-11-26 12:06:29,527 [http-nio-8080-exec-6] INFO by.sazanchuk.finalTask.controller.command.action.authorization.LoginCommand - invalid login was received
+2019-11-26 12:06:58,579 [http-nio-8080-exec-3] INFO by.sazanchuk.finalTask.controller.command.action.authorization.LoginCommand - user authorized with login - admin
+2019-11-26 12:08:01,241 [http-nio-8080-exec-1] INFO by.sazanchuk.finalTask.controller.command.action.doctor.AddDoctorCommand - name or price is null
+2019-11-26 12:08:54,934 [http-nio-8080-exec-5] INFO by.sazanchuk.finalTask.controller.command.action.service.AddServiceCommand - name or price is null
+2019-11-26 12:15:39,353 [main] INFO by.sazanchuk.finalTask.dao.connectionPool.ConnectionPool - Deregistering jdbc driver: com.mysql.cj.jdbc.Driver@48b684d6
+2019-11-26 12:15:39,353 [main] INFO by.sazanchuk.finalTask.dao.connectionPool.ConnectionPool - Deregistering jdbc driver: com.mysql.cj.jdbc.Driver@3658f4c6

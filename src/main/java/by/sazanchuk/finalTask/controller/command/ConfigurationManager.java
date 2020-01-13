@@ -1,0 +1,23 @@
+package by.sazanchuk.finalTask.controller.command;
+
+import java.util.ResourceBundle;
+
+/**
+ * The type Configuration manager.
+ */
+public class ConfigurationManager {
+    private final static ResourceBundle resourceBundle = ResourceBundle.getBundle("resources");
+
+    private ConfigurationManager() {
+    }
+
+    /**
+     * Gets property.
+     *
+     * @param key the key
+     * @return the property
+     */
+    public static String getProperty(String key) {
+        return resourceBundle.getString(key);
+    }
+}

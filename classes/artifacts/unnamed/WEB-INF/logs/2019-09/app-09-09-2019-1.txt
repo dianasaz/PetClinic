@@ -1,0 +1,6 @@
+2019-09-09 17:23:59,117 [http-nio-8080-exec-6] INFO by.sazanchuk.finalTask.controller.command.action.authorization.LoginCommand - invalid login was received
+2019-09-09 17:24:21,029 [http-nio-8080-exec-1] INFO by.sazanchuk.finalTask.controller.command.action.authorization.LoginCommand - user with such login and password doesn't exist
+2019-09-09 17:24:37,641 [http-nio-8080-exec-4] INFO by.sazanchuk.finalTask.controller.command.action.authorization.LoginCommand - user with such login and password doesn't exist
+2019-09-09 17:24:59,123 [http-nio-8080-exec-9] INFO by.sazanchuk.finalTask.controller.command.action.authorization.LoginCommand - user authorized with login - admin
+2019-09-09 17:25:55,882 [main] INFO by.sazanchuk.finalTask.dao.connectionPool.ConnectionPool - Deregistering jdbc driver: com.mysql.cj.jdbc.Driver@1ad1a3c
+2019-09-09 17:25:55,882 [main] INFO by.sazanchuk.finalTask.dao.connectionPool.ConnectionPool - Deregistering jdbc driver: com.mysql.cj.jdbc.Driver@5471f204
