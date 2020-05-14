@@ -1,0 +1,2 @@
+2020-05-14 18:46:58,374 [localhost-startStop-2] INFO by.sazanchuk.finalTask.dao.connectionPool.ConnectionPool - Deregistering jdbc driver: com.mysql.cj.jdbc.Driver@460a31da
+2020-05-14 18:46:58,389 [localhost-startStop-2] INFO by.sazanchuk.finalTask.dao.connectionPool.ConnectionPool - Deregistering jdbc driver: com.mysql.cj.jdbc.Driver@2fc472dd

@@ -4,9 +4,6 @@ import by.sazanchuk.finalTask.controller.command.action.Command;
 import by.sazanchuk.finalTask.controller.command.action.factory.CommandFactory;
 import by.sazanchuk.finalTask.controller.command.action.CommandResult;
 import by.sazanchuk.finalTask.dao.connectionPool.ConnectionPool;
-import org.apache.logging.log4j.LogManager;
-import org.apache.logging.log4j.Logger;
-
 import javax.servlet.RequestDispatcher;
 import javax.servlet.ServletContext;
 import javax.servlet.ServletException;
