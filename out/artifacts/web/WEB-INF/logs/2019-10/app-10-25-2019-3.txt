@@ -1,2 +1,0 @@
-2019-10-25 10:04:14,989 [main] INFO by.sazanchuk.finalTask.dao.connectionPool.ConnectionPool - Deregistering jdbc driver: com.mysql.cj.jdbc.Driver@15286142
-2019-10-25 10:04:15,025 [main] INFO by.sazanchuk.finalTask.dao.connectionPool.ConnectionPool - Deregistering jdbc driver: com.mysql.cj.jdbc.Driver@619377e4
